@@ -8,3 +8,6 @@ In the story, Josephus preferred captured than suicide but he worried that if he
 
 This program calculates where Josephus should be sit in the circle
 
+Sources
+- History (https://en.wikipedia.org/wiki/Josephus_problem)
+- Mechanism and algorithm (https://www.exploringbinary.com/powers-of-two-in-the-josephus-problem/)
