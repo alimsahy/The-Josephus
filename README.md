@@ -1,4 +1,4 @@
-# The-Josephus
+# The Josephus
 
 This math problem based on something from history. 
 
